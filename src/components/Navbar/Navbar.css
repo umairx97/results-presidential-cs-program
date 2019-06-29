@@ -1,0 +1,21 @@
+.navbar{
+    position: relative;
+    width:100vw;
+    top: 0;
+    background: rgba(255, 255, 255, 0.824);
+    border-bottom: 5px solid #01645fb0 ;
+
+}
+a:hover{
+    text-decoration: none !important;
+}
+
+.logout-btn{
+  float: right;
+  border-radius: 100px;
+  background: linear-gradient(to left, #08d88d, #0eb5a3);
+  padding: 5px 20px;
+  color: white;
+  border: none;
+  background-size: contain;
+}
